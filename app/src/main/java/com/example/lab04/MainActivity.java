@@ -9,7 +9,7 @@ import android.util.Log;
 
 import java.util.ArrayList;
 
-//its changed
+//its lojan changeds
 //its changed again
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = "MainActivity";
