@@ -9,6 +9,7 @@ import android.util.Log;
 
 import java.util.ArrayList;
 
+//its changed
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = "MainActivity";
     //vars
