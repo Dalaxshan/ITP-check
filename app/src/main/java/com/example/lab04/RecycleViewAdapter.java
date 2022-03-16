@@ -41,7 +41,7 @@ class RecyclerViewAdapter extends
         ViewHolder viewHolder = new ViewHolder(view);
         return viewHolder;
     }
-
+//it changed again and again
     @SuppressLint("LongLogTag")
     @Override
     public void onBindViewHolder(@NonNull ViewHolder holder, @SuppressLint("RecyclerView") final int position) {
