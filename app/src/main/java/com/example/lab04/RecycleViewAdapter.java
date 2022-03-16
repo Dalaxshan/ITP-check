@@ -42,6 +42,7 @@ class RecyclerViewAdapter extends
         return viewHolder;
     }
 //it changed again and again
+    //dalax branch is updated
     @SuppressLint("LongLogTag")
     @Override
     public void onBindViewHolder(@NonNull ViewHolder holder, @SuppressLint("RecyclerView") final int position) {
